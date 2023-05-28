@@ -1,3 +1,4 @@
 # Shell-Programing
 Workshop 2
-![image](https://github.com/TamNHHE173108/Shell-Programing/assets/113533781/630cc753-d2b7-4bb6-8d87-b449a572c5ce)
+# Màn hình khởi động
+![image](https://github.com/TamNHHE173108/Shell-Programing/assets/113533781/b806a66f-e7d2-468a-8ae0-2d48ad554f89)
